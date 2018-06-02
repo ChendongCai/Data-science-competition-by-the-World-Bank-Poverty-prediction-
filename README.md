@@ -9,4 +9,4 @@ Also, I predicted the probability of a given household being poor (achieved Mean
 
 In the data preprocessing step, I used a crude way to combine the individual dataset and the household dataset which made the logic messy and the code complicated. You can easily reach to excatly the same result by performing one-hot encoding, then aggregating the data by household and calculating the average values.
 
-#### I am fully awared that this script is messy and hard to understand. If you are interested in how I merged two datasets in this competition, I will sepecify this in my next repository (Logistic Regression and Regularization) which is about building a logistic regression from scracth and using this dataset to test.
+#### I am fully awared that this script is messy and hard to understand. If you are interested in how I merged two datasets in this competition, I will specify this in my next repository (Logistic Regression and Regularization) which is about building a logistic regression from scracth and using this dataset to test.
